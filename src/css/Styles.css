@@ -34,14 +34,7 @@
     /*-fx-background-position: left;*/
 }
 #btn1:pressed{
-    -fx-min-width: 49px;
-    -fx-min-height: 25px;
-    -fx-max-width: 49px;
-    -fx-max-height: 25px;
-    -fx-font-weight: bold;
-    -fx-color: #6cbed7;
     -fx-font-size: 9px;
-    -fx-background-image: none;
 }
 
 #textArea{
